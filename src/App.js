@@ -1,11 +1,11 @@
 import Banner from './componentes/Banner'; // omitir o caminho .js faz com que busque por index.js automaticamente
-import CampoTexto from './componentes/CampoTexto/index.js';
+import Formulario from './componentes/Formulario';
 
 function App() {
   return (
     <div className="App">
       <Banner />
-      <CampoTexto />
+      <Formulario />
     </div>
   );
 }

@@ -7,17 +7,17 @@ const Rodape = () => {
         <section>
             <ul>
                 <li>
-                    <a href="facebook.com" target="_blank">
+                    <a href="#" target="_blank">
                         <img src="/imagens/fb.png" alt="" />
                     </a>
                 </li>
                 <li>
-                    <a href="twitter.com" target="_blank">
+                    <a href="#" target="_blank">
                         <img src="/imagens/tw.png" alt="" />
                     </a>
                 </li>
                 <li>
-                    <a href="instagram.com" target="_blank">
+                    <a href="#" target="_blank">
                         <img src="/imagens/ig.png" alt="" />
                     </a>
                 </li>
@@ -28,7 +28,7 @@ const Rodape = () => {
         </section>
         <section>
             <p>
-                Desenvolvido por Alura.
+                Desenvolvido por Wallace Henrique
             </p>
         </section>
     </footer>)
